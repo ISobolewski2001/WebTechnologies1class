@@ -1,3 +1,23 @@
+p {
+    background-color: aquamarine;
+    font-size: 24px;
+}
+strong{
+    color: brown;
+}
+div {
+    background-color: brown;
+    margin: 10px;
+    padding: 20px;
+    border: 10px solid black;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
 #A1 {
 background-color: rgb(255, 1, 1);
 top: 0;
@@ -20,4 +40,5 @@ right: 20;
 }
 #A5 {
 background-color: rgb(156, 28, 28);
+
 }
