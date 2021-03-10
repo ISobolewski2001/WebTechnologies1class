@@ -1,14 +1,22 @@
 #A1 {
 background-color: rgb(255, 1, 1);
+top: 0;
+left: 20;
 }
 #A2 {
 background-color: rgba(0, 0, 0, 0.226);
+top: 0;
+right: 20;
 }
 #A3 {
 background-color: rgb(218, 233, 10);
+bottom: 0;
+left: 20;
 }
 #A4 {
 background-color: rgb(233, 13, 203);
+bottom: 0;
+right: 20;
 }
 #A5 {
 background-color: rgb(156, 28, 28);
